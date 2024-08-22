@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://sudoaptgetyou.github.io/myblog/sitemap.xml
